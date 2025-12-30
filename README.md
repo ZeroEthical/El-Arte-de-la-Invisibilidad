@@ -5,7 +5,7 @@
 ---
 
 [![Author](https://img.shields.io/badge/Author-ZeroEthical-red.svg?style=for-the-badge)](https://github.com/ZeroEthical)
-[![License](https://img.shields.io/badge/License-blue.svg?style=for-the-badge)](https://github.com/ZeroEthical/El-Arte-de-la-Invisibilidad/blob/LICENSE)
+[![License](https://img.shields.io/badge/License-blue.svg?style=for-the-badge)](https://github.com/ZeroEthical/El-Arte-de-la-Invisibilidad/blob/main/LICENSE)
 [![Level](https://img.shields.io/badge/Level-Black_Belt-black.svg?style=for-the-badge)](https://github.com/ZeroEthical)
 
 > "En internet, nadie sabe que eres un perro... a menos que dejes tu IP marcada en cada poste." - *ZeroEthical*
